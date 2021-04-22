@@ -365,7 +365,7 @@ a {
   font-weight: 500; }
   @media (max-width: 736px) {
     .portfolio-area .filters ul li {
-      padding: 6px 6px; } }
+      padding: 6px 6px ; }   }
 
 .portfolio-area .filters ul li:after {
   content: "";
@@ -376,7 +376,7 @@ a {
   background: #333;
   -webkit-transition: width 350ms ease-out;
   -o-transition: width 350ms ease-out;
-  transition: width 350ms ease-out; }
+  transition: width 350ms ease-out; }</.. >
 
 .portfolio-area .filters ul li:hover:after {
   width: calc(100% - 60px);
